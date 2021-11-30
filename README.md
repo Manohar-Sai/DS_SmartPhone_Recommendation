@@ -1,4 +1,4 @@
-# DS_250_Smartphones
+# DS_Smartphones
 ## This project is committed under the Course DS250 for semester 5
 DS250 Folder:
 - Collection.ipynb : Contains the python scripts written for collection of data about smartphones and their specifications
